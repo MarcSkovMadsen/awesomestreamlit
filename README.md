@@ -135,6 +135,10 @@ A curated list of awesome streamlit resources. Inspired by [awesome-python](http
 - [Mining and Classifying Medical Text Documents](https://towardsdatascience.com/mining-and-classifying-medical-text-documents-1876462f73bc) by [Georgi Tancev](https://github.com/gtancev) (#Article, #Deployment, #NLP, #Tutorial)
 - [Streamlit Python Tutorial (Crash Course)](https://www.youtube.com/watch?v=_9WiB2PDO7k) by [Jesse E. Agbe (JCharis)](https://github.com/Jcharis) (#Tutorial, #Video
 
+### Books
+
+- [Streamlit in Action](https://www.manning.com/books/streamlit-in-action) by [Aneev Kochakadan](https://github.com/aneevdavis)
+
 ## Governance
 
 This repo is maintained by me :-)
